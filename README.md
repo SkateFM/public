@@ -1,6 +1,6 @@
 # 🛼 Skate.FM | Preservation through Performance
 
-![Skate.FM Banner](https://via.placeholder.com/800x200/010B13/FF007F?text=SKATE.FM+-+CENTRAL+FLORIDA+ROLLER+RADIO)
+![Skate.FM Banner](https://github.com/SkateFM/skate.fm/raw/main/public/shop_hero_skates.png?text=SKATE.FM+-+CENTRAL+FLORIDA+ROLLER+RADIO)
 
 ## 📡 The Mission
 **Skate.FM** is a non-profit digital broadcast and archival platform dedicated to the preservation of roller skating culture. We focus on the high-energy foundations of the rink experience: Rink Classics, Miami Bass, Freestyle, and Old School music. Based in Central Florida, our mission is to provide a global stage for the music and the moves that define the hardwood.
